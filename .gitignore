@@ -1,3 +1,9 @@
 # ignore Maven build output
-/chatterServer/target/
-/chatterClient/target/
+chatterServer/target/
+chatterClient/target/
+
+# ignore IntelliJ files
+.idea
+
+# ignore .class files
+*.class
